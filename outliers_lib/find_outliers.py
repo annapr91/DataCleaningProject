@@ -61,5 +61,3 @@ def find_outliers_z_score(data, feature, left=3, right=3, log_scale=False):
 
 
 
-def new_finction(a,b):
-    pass
